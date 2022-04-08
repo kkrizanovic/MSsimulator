@@ -1,0 +1,5 @@
+PEPMASS negative: 1756.7377
+PEPMASS positive: 1758.7377
+
+Total positive percentage: 51.73208001480803
+Total negative percentage: 26.71961104259635
